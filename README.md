@@ -1,1 +1,0 @@
-# mask-map-generator-package
